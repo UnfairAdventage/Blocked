@@ -11,5 +11,15 @@
   "6E2BFB2F-4884-3831-EFDF-3C7C3FEDA872": ["OP Autoclicker"],
   "7618103D-C468-11EB-80F0-902E1613CC01": ["NullClient", "420 Clicker", "BypassMethods"],
   "BC0D380C-4C1E-D81A-AA1C-047C16D3FEF3": ["OPAutoclicker"],
-  "03D502E0-045E-0570-EA06-A20700080009": ["Francium Client", "Generic Hitbox", "TriggerBot", "OPAutoclicker"]
+  "03D502E0-045E-0570-EA06-A20700080009": ["Francium Client", "Generic Hitbox", "TriggerBot", "OPAutoclicker"],
+  "58E42A88-9309-11E5-AF3E-84D38DC60F00": ["GenericAutoclicker"],
+  "2650AA35-161E-A6E7-6460-C2573FA6F182": ["DoomsdayClient"],
+  "32D8B572-867F-11E9-A784-98FA9B2C456F": ["OPAutoclicker"],
+  "4C102F82-F2E9-EB11-80E1-088FC30C4DAA": ["Generic Autoclicker"],
+  "88CA2310-BAD3-1C27-BE4D-296BFEFDE5B7": ["Bleachhack Client", "Stopped Services"],
+  "00000000-0000-0000-0000-8C89A52D168F": ["Services Stopped"],
+  "38041569-34B9-EB42-8A62-DE7571F09375": ["Ozix IPGRABBER", "Abdul Client", "Iron Clicker", "Guam Clicker", "ItamiClient"],
+  "03C00218-044D-0537-E406-6B0700080009": ["Ilegal Modification"],
+  "03000200-0400-0500-0006-000700080009": ["Generic Autoclicker"]
+  "A42B1324-C399-4F47-9CF3-26230753FEE1": ["DoomsdayClient"]
 }
